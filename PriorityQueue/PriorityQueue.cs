@@ -7,6 +7,7 @@ namespace PriorityQueue
 {
     class PriorityQueue<T> : IPriorityQueue<T>
     {
+        public Queue<> prQueue { get; }
         public int Count => throw new NotImplementedException();
 
         public T Dequeue()
