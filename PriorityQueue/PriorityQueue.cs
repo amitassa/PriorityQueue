@@ -9,17 +9,19 @@ namespace PriorityQueue
 {
     class PriorityQueue<T> : IPriorityQueue<T>
     {
-        public Queue<PriorityQueueNode<T>> prQueue = new Queue<PriorityQueueNode<T>>();
+        public List<PriorityQueueNode<T>> prQueue = new List<PriorityQueueNode<T>>();
         public int Count => prQueue.Count;
 
         public T Dequeue()
         {
-            return prQueue.OrderBy(item => item.Priority).First().Item;
+            PriorityQueueNode<T> node = prQueue.OrderBy(item => item.Priority).First();
+            prQueue.Remove(node);
+            return node.Item;
         }
 
         public void Enqueue(uint priority, T item)
         {
-            prQueue.Enqueue(new PriorityQueueNode<T>(priority, item));
+            prQueue.Add(new PriorityQueueNode<T>(priority, item));
         }
     }
 }
