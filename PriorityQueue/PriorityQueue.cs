@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
+using System.Linq;
 using System.Text;
 using PriorityQueue.Abstract;
 
@@ -7,17 +9,17 @@ namespace PriorityQueue
 {
     class PriorityQueue<T> : IPriorityQueue<T>
     {
-        public Queue<> prQueue { get; }
-        public int Count => throw new NotImplementedException();
+        public Queue<PriorityQueueNode<T>> prQueue { get; }
+        public int Count => prQueue.Count;
 
         public T Dequeue()
         {
-            throw new NotImplementedException();
+            return prQueue.OrderBy(item => item.Priority).First().Item;
         }
 
         public void Enqueue(uint priority, T item)
         {
-            throw new NotImplementedException();
+            prQueue.Enqueue(new PriorityQueueNode<T>(priority, item));
         }
     }
 }

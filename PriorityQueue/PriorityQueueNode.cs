@@ -4,11 +4,11 @@ using System.Text;
 
 namespace PriorityQueue
 {
-    class PriorityQueueNode
+    class PriorityQueueNode<T>
     {
         public uint Priority { get; }
-        public object Item { get;}
-        public PriorityQueueNode(uint priority, object item)
+        public T Item { get;}
+        public PriorityQueueNode(uint priority, T item)
         {
             Priority = priority;
             Item = item;
