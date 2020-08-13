@@ -9,7 +9,7 @@ namespace PriorityQueue
 {
     class PriorityQueue<T> : IPriorityQueue<T>
     {
-        public Queue<PriorityQueueNode<T>> prQueue { get; }
+        public Queue<PriorityQueueNode<T>> prQueue = new Queue<PriorityQueueNode<T>>();
         public int Count => prQueue.Count;
 
         public T Dequeue()

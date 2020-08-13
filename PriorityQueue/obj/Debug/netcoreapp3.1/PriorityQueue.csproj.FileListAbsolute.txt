@@ -11,3 +11,18 @@ C:\Users\thelittlecitizen13\Desktop\מסמכי קורס\תרגילים\Dev Funda
 C:\Users\thelittlecitizen13\Desktop\מסמכי קורס\תרגילים\Dev Fundamentals\LINQ and Lambda\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.dll
 C:\Users\thelittlecitizen13\Desktop\מסמכי קורס\תרגילים\Dev Fundamentals\LINQ and Lambda\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.pdb
 C:\Users\thelittlecitizen13\Desktop\מסמכי קורס\תרגילים\Dev Fundamentals\LINQ and Lambda\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.genruntimeconfig.cache
+C:\Code\PriorityQueue\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.exe
+C:\Code\PriorityQueue\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.deps.json
+C:\Code\PriorityQueue\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.runtimeconfig.json
+C:\Code\PriorityQueue\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.runtimeconfig.dev.json
+C:\Code\PriorityQueue\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.dll
+C:\Code\PriorityQueue\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.pdb
+C:\Code\PriorityQueue\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.Abstract.dll
+C:\Code\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.csprojAssemblyReference.cache
+C:\Code\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.AssemblyInfoInputs.cache
+C:\Code\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.AssemblyInfo.cs
+C:\Code\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.csproj.CoreCompileInputs.cache
+C:\Code\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.csproj.CopyComplete
+C:\Code\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.dll
+C:\Code\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.pdb
+C:\Code\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.genruntimeconfig.cache
