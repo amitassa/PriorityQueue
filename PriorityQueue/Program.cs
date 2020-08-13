@@ -1,5 +1,5 @@
 ﻿using System;
-using PriorityQueue;
+using PriorityQueue.Abstract;
 
 namespace PriorityQueue
 {

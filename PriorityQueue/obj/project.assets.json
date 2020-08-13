@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thelittlecitizen13\\Desktop\\מסמכי קורס\\תרגילים\\Dev Fundamentals\\LINQ and Lambda\\PriorityQueue\\PriorityQueue\\PriorityQueue.csproj",
+      "projectUniqueName": "C:\\Code\\PriorityQueue\\PriorityQueue\\PriorityQueue.csproj",
       "projectName": "PriorityQueue",
-      "projectPath": "C:\\Users\\thelittlecitizen13\\Desktop\\מסמכי קורס\\תרגילים\\Dev Fundamentals\\LINQ and Lambda\\PriorityQueue\\PriorityQueue\\PriorityQueue.csproj",
+      "projectPath": "C:\\Code\\PriorityQueue\\PriorityQueue\\PriorityQueue.csproj",
       "packagesPath": "C:\\Users\\thelittlecitizen13\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thelittlecitizen13\\Desktop\\מסמכי קורס\\תרגילים\\Dev Fundamentals\\LINQ and Lambda\\PriorityQueue\\PriorityQueue\\obj\\",
+      "outputPath": "C:\\Code\\PriorityQueue\\PriorityQueue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thelittlecitizen13\\AppData\\Roaming\\NuGet\\NuGet.Config",
